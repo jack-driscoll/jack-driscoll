@@ -10,5 +10,5 @@
 # ------------------------------------------------------------------------------
 # IN THE OLD COUNTRY YOU WOULD HAVE TO................................STOP HERE|
 
-echo 'Hi, There!'
-echo 'This is as far as I have gotten...so far'
+echo "Hi, My name is Jack.  This isn't really very interactive, is it?"
+echo "I can't accept user input to ensure cross compatibility, LOL!"
